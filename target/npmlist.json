@@ -1,0 +1,5 @@
+{
+  "version": "1.0.0",
+  "name": "battleship",
+  "dependencies": { "gh-pages": { "version": "4.0.0" } }
+}
